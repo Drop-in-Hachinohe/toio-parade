@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+toio-env/
+
+# Pyenv local version file (keep it tracked if needed)
+# .python-version
+
+# VSCode and other editor settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Backup files
+*~
+*.bak
+
